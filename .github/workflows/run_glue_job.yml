@@ -45,4 +45,4 @@ jobs:
           exit 1
         fi
 
-        echo "Glue Job completed successfully 🎉"
+        echo "Glue Job completed successfully"
